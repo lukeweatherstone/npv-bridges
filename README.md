@@ -42,3 +42,7 @@ This analysis is deliberately narrow. It assumes constant annual benefit, no rep
 Open `npv-bridges.ipynb` in Jupyter to run the analysis and generate the plot.
 
 If you don't have Python, you can [run this notebook in your browser here](https://mybinder.org/v2/gh/lukeweatherstone/npv-bridges/main?urlpath=%2Fdoc%2Ftree%2Fnpv-bridges.ipynb).
+
+## Contact
+
+Questions or comments? Feel free to get in touch with me by email (lukeweatherstone@fastmail.com) or on [LinkedIn](https://www.linkedin.com/in/luke-ww/).
